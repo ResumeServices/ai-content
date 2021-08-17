@@ -1,0 +1,251 @@
+Job Title,Job Category
+manager,management
+assistant manager,management
+supervisor,management
+general manager,management
+shift manager,management
+server,food
+bartender,food
+cook,food
+prep cook,food
+host/hostess,food
+receptionist,admin
+administrative assistant,admin
+office manager,admin
+office assistant,admin
+clerk,admin
+cashier,retail
+customer service associate / cashier,retail
+store manager,retail
+retail sales associate,retail
+cashier/sales,retail
+technician,install
+operator,install
+maintenance technician,install
+maintenance person,install
+mechanic,install
+warehouse worker,warehouse
+forklift operator,warehouse
+package handler,warehouse
+packer,warehouse
+order picker,warehouse
+customer service representative,customer
+front desk agent,customer
+call center representative,customer
+guest service agent,customer
+customer service manager,customer
+sales associate,sales
+sales representative,sales
+account manager,sales
+sales manager,sales
+sales consultant,sales
+crew member,uncategorized
+associate,uncategorized
+assistant,uncategorized
+team member,uncategorized
+volunteer,uncategorized
+nursing assistant,mednurse
+registered nurse,mednurse
+home health aide,mednurse
+licensed practical nurse,mednurse
+charge nurse,mednurse
+driver,driver
+delivery driver,driver
+truck driver,driver
+owner operator driver,driver
+bus driver,driver
+machine operator,manufacturing
+assembler,manufacturing
+production worker,manufacturing
+welder,manufacturing
+press operator,manufacturing
+teacher,education
+substitute teacher,education
+teaching assistant,education
+instructor,education
+tutor,education
+direct support professional,service
+case manager,service
+counselor,service
+paraprofessional,service
+direct care worker,service
+laborer,construction
+construction worker,construction
+equipment operator,construction
+painter,construction
+carpenter,construction
+housekeeper,sanitation
+cleaner,sanitation
+custodian,sanitation
+janitor,sanitation
+sanitation worker,sanitation
+medical assistant,medtech
+certified medical assistant,medtech
+patient care technician,medtech
+phlebotomist,medtech
+mental health technician,medtech
+security officer,protective
+security guard,protective
+correctional officer,protective
+lifeguard,protective
+police officer,protective
+caregiver,care
+personal care assistant,care
+dietary aide,care
+resident assistant,care
+personal trainer,care
+accountant,accounting
+accounts payable clerk,accounting
+accounts receivable clerk,accounting
+bookkeeper,accounting
+accounting clerk,accounting
+babysitter/nanny,childcare
+preschool teacher,childcare
+childcare provider,childcare
+daycare teacher,childcare
+childcare assistant,childcare
+patient services representative,medinfo
+medical biller,medinfo
+patient access manager,medinfo
+coding specialist,medinfo
+unit secretary,medinfo
+human resources manager,hr
+human resources specialist,hr
+recruiter,hr
+human resources assistant,hr
+human resources generalist,hr
+brand ambassador,marketing
+social media specialist,marketing
+director of marketing,marketing
+marketing manager,marketing
+community manager,marketing
+designer,arts
+freelance designer,arts
+artist,arts
+producer,arts
+actor,arts
+dispatcher,transport
+driver,transport
+truck driver,transport
+delivery driver,transport
+owner operator driver,transport
+graphic designer,media
+photographer,media
+editor,media
+freelance photographer,media
+writer,media
+project manager,project
+program manager,project
+project coordinator,project
+program director,project
+project engineer,project
+software engineer,techsoftware
+developer,techsoftware
+web developer,techsoftware
+quality assurance engineer,techsoftware
+software architect,techsoftware
+quality assurance analyst,techinfo
+business analyst,techinfo
+data analyst,techinfo
+systems analyst,techinfo
+it analyst,techinfo
+property manager,realestate
+realtor,realestate
+real estate agent,realestate
+leasing consultant,realestate
+leasing agent,realestate
+massage therapist,personal
+hair stylist,personal
+cosmetologist,personal
+esthetician,personal
+makeup artist,personal
+pharmacy technician,pharmacy
+certified pharmacy technician,pharmacy
+pharmacist,pharmacy
+staff pharmacist,pharmacy
+pharmacy manager,pharmacy
+technical support,techhelp
+systems administrator,techhelp
+help desk analyst,techhelp
+it technician,techhelp
+it support,techhelp
+therapist,therapy
+physical therapist assistant,therapy
+certified occupational therapy assistant,therapy
+physical therapist,therapy
+occupational therapist,therapy
+legal assistant,legal
+paralegal,legal
+attorney,legal
+compliance officer,legal
+counsel,legal
+environmental specialist,science
+research assistant,science
+laboratory assistant,science
+researcher,science
+research associate,science
+insurance agent,insurance
+claims adjuster,insurance
+underwriter,insurance
+claims specialist,insurance
+adjuster,insurance
+porter,hospitality
+concierge,hospitality
+event staff,hospitality
+event specialist,hospitality
+casino dealer,hospitality
+banker,finance
+loan processor,finance
+risk manager,finance
+relationship banker,finance
+fraud analyst,finance
+veterinary technician,veterinary
+pet sitter,veterinary
+veterinary assistant,veterinary
+pet groomer,veterinary
+dog walker,veterinary
+dental assistant,meddental
+dental hygienist,meddental
+dentist,meddental
+orthodontic assistant,meddental
+dental technician,meddental
+head coach,sports
+swim instructor,sports
+fitness instructor,sports
+referee,sports
+fitness trainer,sports
+medical assistant,healthcare
+dental assistant,healthcare
+care assistant,healthcare
+certified medical assistant,healthcare
+dietary aide,healthcare
+technician,engineering
+technical support,engineering
+engineer,engineering
+quality assurance analyst,engineering
+help desk analyst,engineering
+physician,meddr
+physician assistant,meddr
+obstetrics and gynecology physician,meddr
+chiropractor,meddr
+pediatrician,meddr
+infantryman,military
+commander,military
+military police,military
+soldier,military
+non-commissioned officer,military
+system engineer,engid
+quality engineer,engid
+manufacturing engineer,engid
+process engineer,engid
+security engineer,engid
+farm hand,agriculture
+ranch hand,agriculture
+groundskeeper,agriculture
+farm worker,agriculture
+farmer,agriculture
+analyst,math
+data scientist,math
+management analyst,math
+statistician,math
+financial modeler,math
