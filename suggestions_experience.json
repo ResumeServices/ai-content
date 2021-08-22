@@ -3,21 +3,28 @@
         "jobCategory": "care",
         "jobTitle": "caregiver",
         "suggestion": [
-            "Complemented foster child's medical and developmental needs on a daily basis - Assisted in the training of [x] new caregivers"
+            "Complemented foster child's medical and developmental needs on a daily basis",
+            "- Assisted in the training of [x] new caregivers"
         ]
     },
     {
         "jobCategory": "warehouse",
         "jobTitle": "package handler",
         "suggestion": [
-            "- Installed, configured and maintained AV software on over 100 desktop and server computers for management consideration - Scheduled and orchestrated the day-to-day operations of a [x] sqare foot data center by preparing a project plan, resource requirements, and budget - Accomplished more than [x]% of annual project budgets with short lead times and maintained excellent service levels - Worked closely with the network team to ensure the infrastructure was configured properly for all services offered"
+            "- Installed, configured and maintained AV software on over 100 desktop and server computers for management consideration",
+            "- Scheduled and orchestrated the day-to-day operations of a [x] sqare foot data center by preparing a project plan, resource requirements, and budget",
+            "- Accomplished more than [x]% of annual project budgets with short lead times and maintained excellent service levels",
+            "- Worked closely with the network team to ensure the infrastructure was configured properly for all services offered"
         ]
     },
     {
         "jobCategory": "sports",
         "jobTitle": "referee",
         "suggestion": [
-            "- Assisted in a dispute resolution between [x] customers, resolving the issue within a week - Resolved [x] small customer issues within [x] days - Assisted with training and mentoring new employees - Reviewed and approved compliance documentation for [x] new employees"
+            "- Assisted in a dispute resolution between [x] customers, resolving the issue within a week",
+            "- Resolved [x] small customer issues within [x] days",
+            "- Assisted with training and mentoring new employees",
+            "- Reviewed and approved compliance documentation for [x] new employees"
         ]
     },
     {
@@ -26,7 +33,7 @@
         "suggestion": [
             "Designed and implemented curriculum for [x] students to teach data analysis/statistics to a class of [x]",
             "Designed and implemented a lesson plan to teach data investigation",
-            "Designed and implemented a lesson plan to teach  data visualization",
+            "Designed and implemented a lesson plan to teach data visualization",
             "Designed and implemented a lesson plan to teach data analytics",
             "Designed and implemented a lesson plan to teach data science",
             "Designed and implemented a lesson plan to teach data mining",
@@ -101,7 +108,7 @@
         "suggestion": [
             "- Investigated and resolved claims for the company, which resulted in an average of $[x] million per year in savings",
             "- Researched and appraised all property, vehicle, and business valuations to ensure values were accurate and fair",
-            "- Prepared and reviewed all necessary forms and documents for insurance claims, including  verifying more than [x] e-signatures per year",
+            "- Prepared and reviewed all necessary forms and documents for insurance claims, including verifying more than [x] e-signatures per year",
             "- Worked with outside vendors and contractors to coordinate customer service, payroll, claims, and other functions",
             "- Maintained a database of more than [x] items for replacement and repair and maintained a network of [x] independent suppliers to assist in case resolution",
             "- Prepared weekly reports and monthly financial updates for management"
@@ -235,7 +242,7 @@
             "- Served coffee, lattes, and espresso drinks to customers in the morning and afternoon, as well as wine and beer in the evening",
             "- Recognized customers based on previous orders and knew the names of [x]% of customers by the end of the shift",
             "- Created new drink recipes using wine, spirits, and mixers, increasing revenue by $[x] per week",
-            "- Maintained a clean, organized bar area, and ensured all bar equipment was maintained.",
+            "- Maintained a clean, organized bar area, and ensured all bar equipment was maintained",
             "- Greeted, served, and handled all other duties with a smile, making each customer feel welcome and comfortable."
         ]
     },
@@ -316,7 +323,7 @@
             "- Performed all carpentry duties, including framing and drywall work",
             "- Completed concrete and brick work to create a new office walkway",
             "- Created a new office sign for the company",
-            "- Installed an air-conditioning unit for the office, which decreased the temperature by [x] degrees.",
+            "- Installed an air-conditioning unit for the office, which decreased the temperature by [x] degrees",
             "- Maintained audio and video recording equipment in the bathrooms, kitchen, and break room of the building",
             "- Removed a large portion of old carpeting in the warehouse area",
             "- Installed a new floor in the shipping room, which increased the area by [x]%",
@@ -481,7 +488,7 @@
         "suggestion": [
             "- Created and implemented a new cleaning process for the store, which resulted in a [x]% increase in efficiency and an overall reduction in time typically required to clean",
             "- Set up and maintained the store's new cleaning tools and supplies, including mops, brooms, vacuums, and cleaning products",
-            "- Wrote a detailed cleaning logbook that kept track of every task completed, ensuring the store was clean and safe.",
+            "- Wrote a detailed cleaning logbook that kept track of every task completed, ensuring the store was clean and safe",
             "- Prioritized tasks to ensure that all customer needs were met, kept a clean workspace, and ensured the store's high standards of cleanliness",
             "- Educated store employees on the importance of cleanliness",
             "- Moved and cleaned store equipment and fixtures",
@@ -517,10 +524,10 @@
         "jobTitle": "commander",
         "suggestion": [
             "- Established new standards for company training and military-style leadership, resulting in a [x]% increase in retention rates year-over-year",
-            " - Trained and deployed [x] new members of the military to provide security services on a permanent basis",
-            " - Banned all alcohol and tobacco on base, and enforced zero tolerance for drug use",
-            " - Developed and implemented a new Star Wars-themed obstacle course, resulting in a [x]% increase in morale",
-            " - Ran company's day-to-day operations in absence of a CEO"
+            "- Trained and deployed [x] new members of the military to provide security services on a permanent basis",
+            "- Banned all alcohol and tobacco on base, and enforced zero tolerance for drug use",
+            "- Developed and implemented a new Star Wars-themed obstacle course, resulting in a [x]% increase in morale",
+            "- Ran company's day-to-day operations in absence of a CEO"
         ]
     },
     {
@@ -1217,7 +1224,7 @@
         "suggestion": [
             "- Recruited [x] candidates for the position of HR manager, closing the position in less than [x] months",
             "- Managed interviews, hiring paperwork, and onboarding for additional staff",
-            "- Directed the implementation of new HR processes including 360-degree feedback and  performance management",
+            "- Directed the implementation of new HR processes including 360-degree feedback and performance management",
             "- Supervised the first full-time hire and ensured the successful transition of responsibilities"
         ]
     },
@@ -1526,7 +1533,7 @@
         "suggestion": [
             "- Processed an average of [x] patients per day over the past [x]years",
             "- Developed strong customer service skills",
-            "- Presented financial data and facts to management in a convincing manner, resulting in a [x]% increase in the department's revenue.",
+            "- Presented financial data and facts to management in a convincing manner, resulting in a [x]% increase in the department's revenue",
             "- Increased revenue by an average of [x]% annually through a well-planned utilization of services",
             "- Increased client retention by [x]% through client satisfaction surveys, direct communication, and a new marketing campaign",
             "- Performed statistical analyses for projects and reports related to potentially sensitive information loss in medical records, personal information, and Social Security numbers"
@@ -1574,7 +1581,7 @@
         "jobTitle": "nursing assistant",
         "suggestion": [
             "- Delivered more than [x] meals per week, ensuring the highest quality of care",
-            "- Created and maintained an inpatient care log that  noted patient medical history, medications, and diagnoses",
+            "- Created and maintained an inpatient care log that noted patient medical history, medications, and diagnoses",
             "- Utilized hospital systems to monitor and report on individual patient care, including lab results, allergies, and vital signs",
             "- Educated patients on their conditions and prescribed medications"
         ]
@@ -1596,7 +1603,7 @@
             "- Handled [x] customer requests and maintained accurate notes for each request",
             "- Created a Web portal for customer feedback and service requests, resulting in a [x]% increase in service satisfaction",
             "- Proactively addressed client complaints and resolved them in [x] minutes or less, with a [x]% satisfaction rate",
-            "- Ensured all workflow processes were automated and efficient and  managed a semi-automated payroll process"
+            "- Ensured all workflow processes were automated and efficient and managed a semi-automated payroll process"
         ]
     },
     {
@@ -1925,7 +1932,7 @@
             "- Trained and supervised [x] new teachers",
             "- Established a relationship with the parents by interacting with them before and after school, leading to higher attendance rates",
             "- Organized and planned monthly field trips, providing a safe, happy, and fun environment for the children",
-            "- Recruited and hired a replacement teacher after the previous teacher had to take  a personal leave of absence"
+            "- Recruited and hired a replacement teacher after the previous teacher had to take a personal leave of absence"
         ]
     },
     {
@@ -2034,7 +2041,7 @@
             "- Assisted in developing and implementing a new property management system",
             "- Maintained the highest standards of cleanliness and staff conduct and reduced complaints by [x]%",
             "- Performed statistical analyses for projects and developed reports related to potentially sensitive information loss, such as business strategies and clients",
-            "- Implemented a data management system that tracked facilities maintenance, identified areas of remediation and improvement, and created target goals.",
+            "- Implemented a data management system that tracked facilities maintenance, identified areas of remediation and improvement, and created target goals",
             "- Performed statistical analyses for projects and reports related to potentially sensitive information loss, such as business strategies and clients",
             "- Deployed a new software program that tracked revenue and expenses for the past [x] years",
             "- Implemented a new database structure that tracked facilities maintenance,identified areas of remediation and improvement, and created target goals",
@@ -2212,7 +2219,7 @@
             "- Set price book to increase stock and product knowledge",
             "- Established personal connections with customers, exceeding customer service expectations",
             "- Reduced buyer turnover from [x]% to [x]%, increasing annual sales by an average of $[x]",
-            "- Streamlined inventory management to eliminate the need for stock replenishment.",
+            "- Streamlined inventory management to eliminate the need for stock replenishment",
             "- Performed a full audit of inventory and sales reports, ensuring accuracy",
             "- Increased customer retention by [x]%"
         ]
@@ -2290,11 +2297,11 @@
         "jobTitle": "security engineer",
         "suggestion": [
             "- Designed and implemented a state-of-the-art security architecture, increasing response times by [x]%",
-            "- Hardened operating systems and created a firewall for [x]%  coverage, including port-based restrictions, IPS, Web filters, and URL filtering",
+            "- Hardened operating systems and created a firewall for [x]% coverage, including port-based restrictions, IPS, Web filters, and URL filtering",
             "- Acquired and installed a new intrusion detection system, making statistics available to the entire IT staff",
             "- Provided a security roadmap that reduced downtime by [x]%",
             "- Researched and remediated vulnerabilities and found solutions to increase application security and performance",
-            "- Conducted penetration tests to ensure application security and infrastructure were not compromised, identifying [x] opportunities for improvement.",
+            "- Conducted penetration tests to ensure application security and infrastructure were not compromised, identifying [x] opportunities for improvement",
             "- Managed a team of [x] security engineers who maintained an average of [x] security certifications and offered [x] years of experience"
         ]
     },
@@ -2338,7 +2345,7 @@
         "jobCategory": "management",
         "jobTitle": "shift manager",
         "suggestion": [
-            "- Established new scheduling procedures for on-call shifts and production lines, resulting in a  [x]% reduction in employee absences",
+            "- Established new scheduling procedures for on-call shifts and production lines, resulting in a [x]% reduction in employee absences",
             "- Aligned departmental policies and practices with company standards to improve efficiency and customer service",
             "- Lifted the morale of employees by improving efficiency and boosting employee job satisfaction",
             "- Maintained an average of [x]% on-time completion for all projects",
@@ -2452,7 +2459,7 @@
         "suggestion": [
             "- Handled an average of [x] swim classes per week, which included [x] students per class",
             "- Promoted a positive, fun environment, focusing on the positive effects of swimming on the cardiovascular system",
-            "- Engaged students by providing an interactive and insatiable learning environment through  demonstrations and games",
+            "- Engaged students by providing an interactive and insatiable learning environment through demonstrations and games",
             "- Managed customer service requests and worked with administrators to update open classes"
         ]
     },
@@ -2604,7 +2611,7 @@
         "jobTitle": "veterinary technician",
         "suggestion": [
             "- Diagnosed, treated, and stabilized an average of [x] pets per month, providing top-tier customer service",
-            "- Trained [x] new employees in client care practices, including pet food for sick animals  and food safety",
+            "- Trained [x] new employees in client care practices, including pet food for sick animals and food safety",
             "- Handled a caseload of [x] pet visits per week, providing vaccinations, spaying, neutering, and taking medical histories",
             "- Developed a rapport with local pet owners, increasing sales by $[x]k through referrals",
             "- Conducted monthly group staff meetings and provided staff with individualized feedback"
