@@ -3,7 +3,7 @@
         "jobCategory": "care",
         "jobTitle": "caregiver",
         "suggestion": [
-            "Complemented foster child's medical and developmental needs on a daily basis",
+            "- Complemented foster child's medical and developmental needs on a daily basis",
             "- Assisted in the training of [x] new caregivers"
         ]
     },
@@ -31,14 +31,14 @@
         "jobCategory": "education",
         "jobTitle": "teacher",
         "suggestion": [
-            "Designed and implemented curriculum for [x] students to teach data analysis/statistics to a class of [x]",
-            "Designed and implemented a lesson plan to teach data investigation",
-            "Designed and implemented a lesson plan to teach data visualization",
-            "Designed and implemented a lesson plan to teach data analytics",
-            "Designed and implemented a lesson plan to teach data science",
-            "Designed and implemented a lesson plan to teach data mining",
-            "Designed and implemented a lesson plan to teach statistics",
-            "Designed and implemented a lesson plan to teach data analysis"
+            "- Designed and implemented curriculum for [x] students to teach data analysis/statistics to a class of [x]",
+            "- Designed and implemented a lesson plan to teach data investigation",
+            "- Designed and implemented a lesson plan to teach data visualization",
+            "- Designed and implemented a lesson plan to teach data analytics",
+            "- Designed and implemented a lesson plan to teach data science",
+            "- Designed and implemented a lesson plan to teach data mining",
+            "- Designed and implemented a lesson plan to teach statistics",
+            "- Designed and implemented a lesson plan to teach data analysis"
         ]
     },
     {
@@ -753,7 +753,6 @@
             "- Communicated with patients to schedule appointments and identify dental needs, increasing patient compliance in teeth cleaning by [x]%",
             "- Received positive feedback from patients for the quality of cleaning and engaging communication",
             "- Added an additional [x] new patients to the practice's client database",
-            ""
         ]
     },
     {
@@ -765,7 +764,6 @@
             "- Updated insurance forms and patient charts to ensure accurate billing information was submitted",
             "- Utilized new digital forms to track patient data and maintain detailed records",
             "- Monitored patient health and performed preventive care",
-            ""
         ]
     },
     {
@@ -777,7 +775,6 @@
             "- Maintained a [x]% patient satisfaction rating, resulting in a revenue increase of $[x]k",
             "- Recruited and trained [x] new technicians",
             "- Established a reputation as the hardest working and most efficient employee, resulting in a [x]% increase in annual salary",
-            ""
         ]
     },
     {
@@ -809,12 +806,11 @@
         "jobCategory": "techsoftware",
         "jobTitle": "developer",
         "suggestion": [
-            "management to view the full financial data of each client",
+            "- management to view the full financial data of each client",
             "- Designed a full-stack Web application to support new features and meet the needs of existing clients",
             "- Collaborated with a team of [x] developers for [x] months on a major website redesign",
             "- Maintained [x] client websites and provided technical assistance to [x] additional clients on a part-time basis",
             "- Designed and implemented an API for managing clients' business administration",
-            ""
         ]
     },
     {
@@ -871,7 +867,6 @@
             "- Took detailed notes on all calls, ensuring all requests were fulfilled in a timely and professional manner",
             "- Provided quality customer service through friendly, polite communication and ensured all customers were satisfied with our service",
             "- Made sure all customers understood the charges for company services before terminating the call to avoid confusion or misunderstanding",
-            ""
         ]
     },
     {
@@ -884,7 +879,6 @@
             "- Created a blog for customers called 'Curlies' with additional details about each client",
             "- Scored a perfect score on a customer service survey",
             "- Met and exceeded all expectations for customer satisfaction, and received the Write-Up of the Month Award in June for excellent customer service",
-            ""
         ]
     },
     {
@@ -892,13 +886,11 @@
         "jobTitle": "driver",
         "suggestion": [
             "- Delivered more than [x] pounds of product to customers in the first [x] days of employment",
-            "- Maintained a [x] GPA throughout [x] years at St",
-            "John's University",
+            "- Maintained a [x] GPA throughout [x] years at St. John's University",
             "- Performed a comprehensive review of the company's fleet vehicles and improved fuel efficiency by [x]%",
             "- Verified vehicle maintenance logs and provided insight into the general condition of the vehicles",
             "- Maintained a clean, well-organized workstation, and kept waste and non-essential items to a minimum",
             "- Volunteered with the local fire department helping to rescue multiple animals",
-            ""
         ]
     },
     {
@@ -909,7 +901,6 @@
             "- Utilized an editorial calendar to ensure that all pages were consistent in style and substance",
             "- Implemented a new content management system to automate content creation and maintenance",
             "- Increased output by [x]% with new resources and employees",
-            ""
         ]
     },
     {
@@ -953,7 +944,6 @@
             "- Gave each client a [x]-minute skin care consultation and skin analysis before performing any services",
             "- Gave each client a custom facial massage, cleansing, and mask treatment",
             "- Continued to learn from new clients and apply their feedback to improve services",
-            ""
         ]
     },
     {
@@ -1087,7 +1077,6 @@
             "- Increased revenue by [x]% due to exceptional customer service and greater numbers of clients staying in the hotel",
             "- Attained top customer service ratings every month",
             "- Managed a handwritten notebook with [x] keys, each labeled with name, credit card number, and room number",
-            ""
         ]
     },
     {
@@ -1187,7 +1176,6 @@
             "- Implemented company-wide benchmarks for quality of service and significantly improved customer satisfaction",
             "- Maintained meticulous records and documents, resulting in no lost stock or breakage of glassware",
             "- Earned the restaurant a Trouble-Free Environment rating of [x]% for the last [x] years, during which only [x] incidents were reported",
-            ""
         ]
     },
     {
@@ -1215,7 +1203,6 @@
             "- Developed a career advancement program focused on employee satisfaction and retention",
             "- Advised managers on effective employee performance management",
             "- Recruited clients, some international, for face-to-face interviews",
-            ""
         ]
     },
     {
@@ -1262,7 +1249,6 @@
             "- Handled time sheets, student records, and student grade reports",
             "- Scheduled class meetings and special events",
             "- Maintained a superior attitude towards students and fellow instructors, showing empathy and understanding",
-            ""
         ]
     },
     {
@@ -1378,7 +1364,6 @@
             "- Followed all state and federal guidelines for medication administration",
             "- Educated patients on the proper use of their medication",
             "- Communicated with physicians and other nurses regarding any medical concerns",
-            ""
         ]
     },
     {
@@ -1501,7 +1486,6 @@
             "- Answered phone calls on average of [x] times daily, resolving more than [x] customer questions",
             "- Created a new therapeutic massage routine that reduced hand and shoulder pain by [x]%",
             "- Managed [x] employees and [x] interns on average",
-            ""
         ]
     },
     {
@@ -1551,7 +1535,6 @@
             "- Improved the work environment by implementing a successful team-building program",
             "- Performed statistical analyses for projects and reports related to potentially sensitive information loss, such as business strategies and clients",
             "- Maintained a database that tracked vulnerabilities by risk, mitigation plan, and remediation",
-            ""
         ]
     },
     {
@@ -1573,7 +1556,6 @@
             "- Led a platoon of [x] soldiers in completing more than [x] hours of training, including battle drills, first aid, weapons training, and communication skills",
             "- Led a platoon of [x] soldiers in completing more than [x] hours of training",
             "- Mentored a platoon of [x] soldiers as they achieved rank of staff sergeant, earning a spot on the company's leadership team",
-            ""
         ]
     },
     {
