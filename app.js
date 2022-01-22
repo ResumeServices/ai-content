@@ -2,20 +2,22 @@ const MongoClient = require('mongodb').MongoClient;
 require('dotenv').config()
 
 
-const mongoDBUri = process.env.MONGODB_URI;
-const PORT = process.env.PORT_1;
-const NODE_ENV = process.env.NODE_ENV;
+const server1 = process.env.SERVER_1;
+const server2 = process.env.SERVER_2;
+const port1 = process.env.PORT_1;
+const port2 = process.env.PORT_2;
 const dbName = process.env.DB_NAME;
-const server = process.env.SERVER_1;
 const username = process.env.USERNAME;
 const password = process.env.PASSWORD;
+
 
 
 const suggestions_experience_data = require("./json_files/suggestions_experience.json")
 const suggestions_summary_data = require("./json_files/suggestions_summary.json");
 const jobs_categories_titles_data = require("./json_files/jobs_categories_titles.json");
 const job_categories_skill_data = require("./json_files/job_categories_skill.json");
-const url = process.env.MONGODB_URI
+const url = `mongodb://${username}:${password}@${server1}:${port1},${server2}:${port2}/?authSource=${dbName}&readPreference=primary&appname=MongoDB%20Compass&directConnection=false&ssl=true`;
+
 
 
 
@@ -48,7 +50,6 @@ MongoClient.connect(url, { useUnifiedTopology: true }, function(err, client) {
     function createCollection(collectionName) {
        return db.createCollection(collectionName)
     }
-    
 });
 
 
