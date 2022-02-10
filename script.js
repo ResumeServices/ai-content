@@ -21,7 +21,7 @@ const suggestions_summary = content.map((item, i) => {
 writeFIle("suggestions_summary", suggestions_summary);
 
 const suggestions_experience = content.map((item, i) => {
-  const suggestion = item.experience.split(". ").map((item)=>item[0]!=="-"?`- ${item}`:item)
+  const suggestion = item.experience.split(". ").map((item)=>item[0]==="-"?item.slice(2, item.length):item)
   return {
     jobCategory: item.jobCategory,
     jobTitle: item.jobTitle,
