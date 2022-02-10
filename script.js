@@ -25,7 +25,7 @@ const suggestions_experience = content.map((item, i) => {
   return {
     jobCategory: item.jobCategory,
     jobTitle: item.jobTitle,
-    suggestion: suggestion
+    suggestions: suggestion
   };
 });
 writeFIle("suggestions_experience", suggestions_experience);
@@ -84,7 +84,7 @@ function getCount(name, data) {
 }
 
 function writeFIle(name, data) {
-  fs.writeFile(`${name}.json`, JSON.stringify(data), function (err) {
+  fs.writeFile(`./json_files/${name}.json`, JSON.stringify(data), function (err) {
     if (err) throw err;
     console.log("complete", name);
   });

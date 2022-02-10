@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
-    "updete-content": "node app.js"
+    "update-content": "node app.js"
   },
   "dependencies": {
     "dotenv": "^10.0.0",
