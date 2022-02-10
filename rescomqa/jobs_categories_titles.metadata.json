@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"rescomqa.jobs_categories_titles"}],"uuid":"b474743c73ee4cb48fce7b28397f822d","collectionName":"jobs_categories_titles"}

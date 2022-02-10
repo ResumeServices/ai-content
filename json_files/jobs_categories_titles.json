@@ -29,6 +29,10 @@
     },
     {
         "jobCategory": "accounting",
+        "jobTitle": "accounts payable clerk"
+    },
+    {
+        "jobCategory": "accounting",
         "jobTitle": "accounts receivable clerk"
     },
     {
@@ -346,6 +350,10 @@
     {
         "jobCategory": "math",
         "jobTitle": "financial modeler"
+    },
+    {
+        "jobCategory": "sports",
+        "jobTitle": "fitness instructor"
     },
     {
         "jobCategory": "sports",

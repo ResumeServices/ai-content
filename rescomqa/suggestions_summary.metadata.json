@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"rescomqa.suggestions_summary"}],"uuid":"c8929d62b7a543c3bd072939cb242fd6","collectionName":"suggestions_summary"}

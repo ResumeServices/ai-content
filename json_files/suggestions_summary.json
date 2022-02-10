@@ -7,8 +7,7 @@
             "Professional, dependable caregiver with [x] years of experience providing daily assistance and household services including cooking, cleaning, and laundry",
             "Experienced caregiver with [x] years of experience caring for children and adults, helping them with feeding, bathing, dressing, and getting them out of the house",
             "Compassionate caregiver with [x] years of experience providing daily care and loving support to elderly or disabled family members",
-            "Provocative, expressive caregiver with [x] years of experience providing physical care and emotional support for the elderly",
-            ""
+            "Provocative, expressive caregiver with [x] years of experience providing physical care and emotional support for the elderly."
         ]
     },
     {
@@ -86,6 +85,17 @@
             "Used clear and concise language, traveling to and from locations as necessary",
             "Maintained strict financial records, and administered any necessary training",
             "Accounting clerk with [x] years of experience in processing general ledger, invoicing, and bookkeeping-related tasks."
+        ]
+    },
+    {
+        "jobCategory": "accounting",
+        "jobTitle": "accounts payable clerk",
+        "suggestion": [
+            "Exceptional accounts payable clerk with [x] years of experience in maintaining accurate timekeeping and billing procedures, while ensuring that all invoices are appropriately coded and billed on time",
+            "Efficient, professional, and hardworking accounts payable clerk with [x] years of experience providing excellent customer service",
+            "Efficient and resourceful accounts payable clerk with [x] years of experience in handling accounts payable transactions, including vendor payments and payroll",
+            "Accounts payable clerk with [x] years of experience carefully monitoring the inventory of the company's products",
+            "Outstanding and efficient accounts payable clerk with [x] years of experience handling accounts payable transactions, processing payroll, maintaining accounting records, and preparing financial reports."
         ]
     },
     {
@@ -659,8 +669,7 @@
             "Licensed and certified professional counselor with [x] years of experience providing therapy to children, adults, and families who are struggling with anxiety, depression, self-esteem issues, anger management, and family relationships.",
             "Proven counselor with [x] years of experience supporting clients with individual social and emotional growth.",
             "Counselor with [x] years of experience ready to help guide students through the development process and inspire them to reach their full potential.",
-            "Counselor with several years of experience working with others to help them develop their best selves.",
-            ""
+            "Counselor with several years of experience working with others to help them develop their best selves.."
         ]
     },
     {
@@ -823,8 +832,7 @@
             "Trustworthy dentist with [x] years of experience providing excellent customer service",
             "Obtained a specialty license and offer a proven track record of professionalism",
             "Dedicated, knowledgeable dentist with [x] years of experience providing comprehensive dental services such as patient counseling, general cleaning, and procedures such as fillings and root canals",
-            "Certified and experienced dentist with [x] years of experience providing high-quality dental care to patients as well as meeting each patient's oral health goals",
-            ""
+            "Certified and experienced dentist with [x] years of experience providing high-quality dental care to patients as well as meeting each patient's oral health goals."
         ]
     },
     {
@@ -861,8 +869,7 @@
             "Dedicated caregiver who enjoys interacting with members of the community",
             "Dietary aide who manages a team of dietary aides with an emphasis on efficiently monitoring and maintaining nutritional intake of all patients in the hospital's pediatric unit",
             "Reliable dietary aide with [x] years of experience handling food preparation duties and serving food to patients in a hospital kitchen",
-            "Friendly, dependable dietary aide with [x] years of experience providing personal care to seniors while keeping their living and eating environments clean and orderly",
-            ""
+            "Friendly, dependable dietary aide with [x] years of experience providing personal care to seniors while keeping their living and eating environments clean and orderly."
         ]
     },
     {
@@ -954,8 +961,7 @@
             "Leading engineer with [x] years of experience developing high-performance hardware and software systems for different industries",
             "Knowledgeable engineer with [x] years of experience leading a team and implementing a project from conception to completion",
             "Skilled in creative problem solving and attention to detail",
-            "Exceptional engineer with [x] years of experience designing efficient systems and products while creating solutions to complex problems",
-            ""
+            "Exceptional engineer with [x] years of experience designing efficient systems and products while creating solutions to complex problems."
         ]
     },
     {
@@ -987,8 +993,7 @@
             "Experienced and talented esthetician with [x] years of experience improving appearance and health of clients",
             "Proven track record of maintaining professional standards and being respected for workmanship",
             "Experienced esthetician with [x] years of experience providing timely facials, massages, waxing services, and other beauty treatments",
-            "Beautiful esthetician with [x] years of experience providing a wide range of beauty services at urgent and nonurgent times",
-            ""
+            "Beautiful esthetician with [x] years of experience providing a wide range of beauty services at urgent and nonurgent times."
         ]
     },
     {
@@ -998,8 +1003,7 @@
             "Qualified event specialist with several years of experience planning, organizing, and executing successful events for a variety of clients",
             "Hardworking event specialist with [x] years of experience creating compelling programs that successfully promote brands and events",
             "Experienced events specialist with [x] years of experience creating unique experiences for paying customers and organizing welcoming events",
-            "Proven professional and reliable event specialist with [x] years of experience",
-            ""
+            "Proven professional and reliable event specialist with [x] years of experience."
         ]
     },
     {
@@ -1062,6 +1066,18 @@
             "Financial modeler with strong understanding of financial markets and relationships with executives",
             "Proven track record of managing different types of projects during stressful times",
             "Curious, creative financial modeler with many years of experience in risk management, modeling valuations, forecasting income statements and balance sheets, and finding ways to improve profitability."
+        ]
+    },
+    {
+        "jobCategory": "sports",
+        "jobTitle": "fitness instructor",
+        "suggestion": [
+            "Fitness instructor with a proven track record of providing personalized fitness and movement classes for clients and students",
+            "[x] years of experience demonstrating effective techniques in personal training for a broad range of clients with varying physical abilities",
+            "Fitness instructor with [x] years of experience, certified in fitness and health education",
+            "Fitness instructor with [x] years of relevant experience",
+            "Fitness instructor with [x] years of experience and proven track record of motivating members to achieve their goals while making use of a variety of equipment and exercise programs",
+            "Helpful and energetic fitness instructor with [x] years of experience creating fun and motivating fitness classes featuring a variety of conditioning, strength, and flexibility routines."
         ]
     },
     {
@@ -1139,8 +1155,7 @@
             "Experienced general manager with [x] years of experience completing all assigned tasks accurately and efficiently, maintaining a high level of efficiency and performance, and striving for perfection",
             "Project-oriented general manager with a strong track record of successfully managing multiple teams of employees while working as the driving force behind initiating, maintaining, and monitoring performance",
             "Experienced general manager with [x] years of experience overseeing multiple departments and reporting to multiple supervisors",
-            "Experienced general manager with [x] years of experience leading a team of sales representatives and managing their performance in order to meet sales targets and customer service demands",
-            ""
+            "Experienced general manager with [x] years of experience leading a team of sales representatives and managing their performance in order to meet sales targets and customer service demands."
         ]
     },
     {
@@ -1151,8 +1166,7 @@
             "Experienced graphic designer in a fast-paced and creative industry with strong communication skills",
             "Demonstrated capability to adapt to new situations, manage multiple tasks, and work collaboratively with clients",
             "Knowledgeable graphic designer with [x] years of experience designing custom logos and marketing materials for a variety of industries",
-            "Passionate graphic designer with [x] years of experience developing creative digital and Web designs, working with a team on front-end Web developers, and maintaining a keen eye for detail",
-            ""
+            "Passionate graphic designer with [x] years of experience developing creative digital and Web designs, working with a team on front-end Web developers, and maintaining a keen eye for detail."
         ]
     },
     {
@@ -1185,8 +1199,7 @@
             "Experienced hair stylist with [x] years of experience providing hair services for women and men using the latest techniques",
             "Experienced hair stylist with [x] years of experience styling clients' hair",
             "Creative and driven hair stylist with [x] years of experience maintaining a clean and organized shop/studio and using creative styling techniques to achieve a trendy look with attention to detail",
-            "Experienced hair stylist with [x] years of experience using hair cutting, trimming, and coloring techniques to achieve desired looks",
-            ""
+            "Experienced hair stylist with [x] years of experience using hair cutting, trimming, and coloring techniques to achieve desired looks."
         ]
     },
     {
@@ -1238,8 +1251,7 @@
             "Expert at interacting with customers; proficient in following up on customer requests and efficiently resolving any issues",
             "Worked alongside several departments in the hospitality industry, including front desk, food service, sales, and corporate events",
             "Loyal and dependable host/hostess with [x] years of experience providing exceptional customer service and working with a team to ensure a positive social atmosphere",
-            "Provided efficient customer service as a host/hostess with [x] years of experience, completing tasks such as seating guests, taking food orders, and greeting customers",
-            ""
+            "Provided efficient customer service as a host/hostess with [x] years of experience, completing tasks such as seating guests, taking food orders, and greeting customers."
         ]
     },
     {
@@ -1287,8 +1299,7 @@
             "Human resources manager experienced in hiring and training new employees with a proven track record of managing compensation, benefits, and employee relations",
             "Dedicated human resources manager with [x] years of experience handling recruiting and interviewing processes, maintaining employee relations, and performing all other HR-related duties",
             "Experienced HR manager with [x] years of experience meeting departmental objectives and goals with superior leadership and strategic planning skills",
-            "Analytical, detail-oriented human resources manager with [x] years of experience in management consulting",
-            ""
+            "Analytical, detail-oriented human resources manager with [x] years of experience in management consulting."
         ]
     },
     {
@@ -1405,8 +1416,7 @@
             "Experienced leasing agent with [x] years of experience finding the right commercial property for the right client",
             "Knowledgeable, hardworking, and reliable leasing agent with [x] years of experience overseeing the successful leasing of numerous properties",
             "Proven leasing agent with [x] years of experience demonstrating negotiating and client relations skills",
-            "Professional leasing agent with [x] years of experience handling all facets of leasing transactions from initial client meetings, preparing rental agreements, maintaining property records, and negotiating the best terms available for clients",
-            ""
+            "Professional leasing agent with [x] years of experience handling all facets of leasing transactions from initial client meetings, preparing rental agreements, maintaining property records, and negotiating the best terms available for clients."
         ]
     },
     {
@@ -1430,8 +1440,7 @@
             "Legal assistant with [x] years of experience assisting attorneys in a private practice",
             "Well-versed in all aspects of litigation, including legal research and fact-finding, brief writing, oral argument preparation, and trial advocacy",
             "Experienced legal assistant with [x] years of experience drafting and revising contract documents",
-            "Legal assistant with [x] years of experience working to ensure smooth client transactions and handling court documents",
-            ""
+            "Legal assistant with [x] years of experience working to ensure smooth client transactions and handling court documents."
         ]
     },
     {
@@ -1501,8 +1510,7 @@
             "Caring maintenance technician with [x] years of experience conducting routine and emergency maintenance tasks on various equipment",
             "Reliable and knowledgeable maintenance technician with [x] years of experience maintaining equipment and facilities on a daily basis",
             "Proven maintenance technician with [x] years of experience overseeing a major facility while maintaining equipment and performing preventative maintenance",
-            "Maintenance technician with [x] years of experience troubleshooting and repairing complex systems to ensure optimal customer service and avoid outages",
-            ""
+            "Maintenance technician with [x] years of experience troubleshooting and repairing complex systems to ensure optimal customer service and avoid outages."
         ]
     },
     {
@@ -1539,8 +1547,7 @@
             "Thoroughly prepared manager with [x] years of experience organizing and planning work schedules, attendance, and payroll, supervising employees, and providing quality customer service",
             "Analytical, dedicated manager with [x] years of experience providing leadership and direction to employees, teams, and departments",
             "Enterprising manager with [x] years of experience executing and monitoring results, mentoring employees, and providing strategic leadership in corporate environments",
-            "In-depth experience building and leading the team and following company policies",
-            ""
+            "In-depth experience building and leading the team and following company policies."
         ]
     },
     {
@@ -1552,8 +1559,7 @@
             "Intermediate-level knowledge of computer-aided design (CAD) applications",
             "Versatile and highly skilled manufacturing engineer with [x] years of experience working in quality control, quality assurance, maintenance, quality improvement, and cost management",
             "Senior manufacturing engineer with [x] years of experience designing and implementing new automated production processes",
-            "Logical, creative, and detail-oriented manufacturing engineer with [x] years of experience managing engineering teams in designing and developing new products and processes while prioritizing goals and quality",
-            ""
+            "Logical, creative, and detail-oriented manufacturing engineer with [x] years of experience managing engineering teams in designing and developing new products and processes while prioritizing goals and quality."
         ]
     },
     {
@@ -1579,8 +1585,7 @@
             "Expert massage therapist with [x] years of experience providing specialized massages, utilizing healthy oils, and offering recommendations to clients",
             "Skilled and knowledgeable massage therapist with [x] years of experience",
             "Experienced massage therapist with [x] years of experience offering personalized therapeutic massages to clients",
-            "Massage therapist with [x] years of experience, certified (or licensed) in [state]",
-            ""
+            "Massage therapist with [x] years of experience, certified (or licensed) in [state]."
         ]
     },
     {
@@ -1604,8 +1609,7 @@
             "Hardworking medical assistant with [x] years of experience providing patient care, customer service and administrative support to physicians",
             "Consistently delivered prompt and efficient care",
             "Outstanding, self-motivated medical assistant with [x] years of experience providing first-level care to patients, including feeding, bathing, transporting, and administering medications",
-            "Medical assistant with [x] years of experience assisting physicians with patient visits and billing",
-            ""
+            "Medical assistant with [x] years of experience assisting physicians with patient visits and billing."
         ]
     },
     {
@@ -1630,8 +1634,7 @@
             "Experienced mental health technician with [x] years of experience providing client care for vulnerable and high-risk populations based on sound clinical techniques and professional standards",
             "Experienced mental health technician with [x] years of experience providing treatment to emotionally disturbed patients and managing crisis situations for the most difficult cases",
             "Loyal, persevering mental health technician with [x] years of experience providing comprehensive psychiatric treatment to patients with emotional depression and anxiety",
-            "Proven track record of long-term clinical practice",
-            ""
+            "Proven track record of long-term clinical practice."
         ]
     },
     {
@@ -2492,8 +2495,7 @@
             "Able to critically analyze shift schedules and recommend how to retain the best talent",
             "Proven track record of scheduling and maintaining a productive work environment",
             "Supervise and motivate shift managers and lead role players to meet corporate goals and metrics",
-            "Dedicated shift manager with [x] years of experience keeping employees productive and on track while managing multiple shifts",
-            ""
+            "Dedicated shift manager with [x] years of experience keeping employees productive and on track while managing multiple shifts."
         ]
     },
     {
